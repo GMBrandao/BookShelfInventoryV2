@@ -3,11 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.33424.131
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookShelfInventoryV2", "BookShelfInventoryV2\BookShelfInventoryV2.csproj", "{0E7463D1-884E-4D81-A1A1-E323619E8AD0}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Models", "Models\Models.csproj", "{0F33A7B9-2308-490E-BECD-D96F3292DF49}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Controllers", "Controllers\Controllers.csproj", "{114F5057-D7B4-491F-B31E-A0A868AB48E3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BookShelfInventoryV2", "BookShelfInventoryV2\BookShelfInventoryV2.csproj", "{0E7463D1-884E-4D81-A1A1-E323619E8AD0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -19,14 +15,6 @@ Global
 		{0E7463D1-884E-4D81-A1A1-E323619E8AD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0E7463D1-884E-4D81-A1A1-E323619E8AD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0E7463D1-884E-4D81-A1A1-E323619E8AD0}.Release|Any CPU.Build.0 = Release|Any CPU
-		{0F33A7B9-2308-490E-BECD-D96F3292DF49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{0F33A7B9-2308-490E-BECD-D96F3292DF49}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{0F33A7B9-2308-490E-BECD-D96F3292DF49}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{0F33A7B9-2308-490E-BECD-D96F3292DF49}.Release|Any CPU.Build.0 = Release|Any CPU
-		{114F5057-D7B4-491F-B31E-A0A868AB48E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{114F5057-D7B4-491F-B31E-A0A868AB48E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{114F5057-D7B4-491F-B31E-A0A868AB48E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{114F5057-D7B4-491F-B31E-A0A868AB48E3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
